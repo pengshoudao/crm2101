@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-hello-springmvc/ch01-hello-springmvc.iml" filepath="$PROJECT_DIR$/ch01-hello-springmvc/ch01-hello-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-course/ch03-ioc-homework/ch03-ioc-homework.iml" filepath="$PROJECT_DIR$/../spring-course/ch03-ioc-homework/ch03-ioc-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-course/ch07-spring-mybatis/ch07-spring-mybatis.iml" filepath="$PROJECT_DIR$/../spring-course/ch07-spring-mybatis/ch07-spring-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-ssm/ch07-ssm.iml" filepath="$PROJECT_DIR$/ch07-ssm/ch07-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-course/ch11-spring-web/ch11-spring-web.iml" filepath="$PROJECT_DIR$/../spring-course/ch11-spring-web/ch11-spring-web.iml" />
+    </modules>
+  </component>
+</project>
